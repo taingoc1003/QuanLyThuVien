@@ -1,0 +1,13 @@
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLThuThu.resources
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+C:\Users\Tai Ngoc\Documents\Chuyên Đề Tốt Nghiệp\CNPM\QuanLyThuVien\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLTaiLieu.resources
